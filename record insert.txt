@@ -1,0 +1,4 @@
+insert into employee(Emp_id,Emp_name, Emp_city ,Emp_salary ,Emp_Phone) values(10,"shrivalli","KA", 60000,4256321),
+(11,"Hardik","Bhopal", 60000,3256321),
+(12,"Ramesh","Delhi", 11000,366321),(13,"kaushik","Bangalore", 50000,266321),(14,"Komal","Bangalore", 45000,266891),
+(14,"Ramesh","Bangalore", 15000,266891);
